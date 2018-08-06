@@ -1,0 +1,10 @@
+app:
+  artifactId: '@artifactId@'
+  version: '@version@'
+  description: '@description@'
+logging:
+  path: "com.binaryfountain.*"
+  level:
+    com:
+      binaryfountain:
+        airtraffic: "TRACE"
